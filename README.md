@@ -1,5 +1,5 @@
 # DeepLearningStudies
-Repositório para publicar os estudos realizados em Deep Learning, através do programa de cursos integrados realizado no Coursera. Os arquivos foram escritos em inglês como forma de aprimorar as habilidades de escrita nessa língua. 
+Repositório para publicar os estudos realizados em Deep Learning, através do programa de cursos integrados ministrado por Andrew Ng, oferecido por deeplearning.ai na plataforma Coursera (https://pt.coursera.org/specializations/deep-learning). Os arquivos foram escritos em inglês como forma de aprimorar as habilidades de escrita e ampliar o vocabulário técnico nessa língua. 
 
 O objetivo de escrever tais arquivos foi manter um resumo salvo sobre os assuntos abordados durante o curso e um material para consulta que pode ser consultado a qualquer momento. 
 
